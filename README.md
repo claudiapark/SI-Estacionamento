@@ -1,2 +1,3 @@
 # SI-Estacionamento
-Projeto de software para gestão de estacionamento
+# Projeto de informatizaçõa de gestão de entrada, saída e permanência de veículos em estacionamento.
+# Estudo de caso das aulas de Eng.Software
